@@ -19,9 +19,6 @@ export default {
   methods: {
     ...mapMutations(['openModal']),
     ...mapActions(['openChat'])
-  },
-  update() {
-    console.log("update")
   }
 }
 </script>

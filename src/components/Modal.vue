@@ -1,6 +1,6 @@
 <template>
   <div id="modalContent"
-    :class="isModalVisible ? 'modal fade show d-block' : 'modal hide d-none'"
+    :class="isModalVisible ? 'modal show d-block' : 'modal hide d-none'"
     tabindex="-1"
     role="dialog"
     aria-labelledby="modalContentLabel"
