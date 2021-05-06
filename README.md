@@ -11,11 +11,8 @@ npm install
 ```
 npm run serve
 ```
-
-### Ejecutar
-```
-npm run build
-```
+Normalmente se ejecuta en http://localhost:8080/
+La propia consola provee un enlace para abrirlo en el navegador al ejecutar este comando.
 
 ### Ejecutar tests
 ```
