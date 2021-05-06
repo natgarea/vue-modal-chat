@@ -1,0 +1,14 @@
+.chat-picture {
+    display: block;
+    max-width: 5%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.modal-dialog{
+    overflow-y: initial !important
+}
+.modal-body{
+    height: 80vh;
+    overflow-y: auto;
+}
