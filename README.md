@@ -27,15 +27,18 @@ En el caso de cypress cuando se abra la ventana correspondiente habrá que hacer
 ## Notas
 
 ### Herramientas adicionales
-- Vuex - para state management
-- Chai - para un test de una función del store de Vuex
-- Cypress - para un test e2e
-- Librería Moment.js - formatear y mostrar fechas y horas
+- [Vuex](https://vuex.vuejs.org/) - para state management
+- [Chai](https://www.chaijs.com/) - para un test de una función del store de Vuex
+- [Cypress](https://www.cypress.io/) - para un test e2e
+- Librería [Moment.js](https://momentjs.com/) - formatear y mostrar fechas y horas
 
 ### Suposiciones realizadas
 - Se abre el modal a través de un botón.
 - Se cierra a través de la 'x' en la esquina superior derecha.
 
 ### Posibles mejoras
-- Tipografía, iconos, medidas, detalles como triángulo que hace parece el mensaje un bocadillo que sale del icono de usuario.
+- Tipografía, iconos, medidas, detalles como el triángulo que hace parece el mensaje un bocadillo que sale del icono de usuario.
 - Aplicar TDD y tener tests unitarios de los componentes.
+
+### Otros
+Hice un [primer intento](https://github.com/natgarea/vue-primer-intento) que incluía [Bootstrap Vue](https://bootstrap-vue.org/) pero como no lo conozco mucho, decidí que acabaría usando simplemente [Bootstrap](https://getbootstrap.com/).
