@@ -1,0 +1,48 @@
+[
+  {
+     "attachment":true,
+     "title":"Título del archivo a subir 2.pdf",
+     "version":1,
+     "file_type":"PDF",
+     "file_size":"3.8MB",
+     "timestamp":"December 28, 2018 14:45:00",
+     "URL":"#"
+  },
+  {
+     "attachment":false,
+     "user":"student",
+     "logged_as_user":true,
+     "timestamp":"December 28, 2018 14:45:05",
+     "content":"Buenas tardes, acabo de subir el primer archivo con el caso práctico, espero revisión."
+  },
+  {
+     "attachment":false,
+     "user":"tutor",
+     "logged_as_user":false,
+     "timestamp":"December 29, 2018 10:11:00",
+     "content":"¡Gran trabajo Silvia! Pero creo que deberías revisar el punto 3. Intenta añadir un poco más de contexto y un apartado final de conclusiones personales."
+  },
+  {
+     "attachment":true,
+     "title":"Título del archivo a subir 2.pdf",
+     "version":2,
+     "file_type":"PDF",
+     "file_size":"4.8MB",
+     "timestamp":"December 30, 2018 08:22:00",
+     "URL":"#"
+  },
+  {
+     "attachment":false,
+     "user":"student",
+     "logged_as_user":true,
+     "timestamp":"December 30, 2018 08:22:05",
+     "content":"Realizados los cambios según feedback."
+  },
+  {
+     "attachment":false,
+     "user":"tutor",
+     "logged_as_user":false,
+     "timestamp":"December 30, 2018 15:25:00",
+     "content":"Perfecto, excelente trabajo."
+  }
+]
